@@ -167,10 +167,12 @@ Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
   <strong>Requirements:</strong>
-  Participants can use provided computers.
-  The workshops will take place in a university computer lab.
+  Participants are encouraged to bring a laptop with a
+  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
+  They should have a few specific software packages installed (listed <a href="#setup">below</a>).
 
-  <em>We are currently checking, whether learners using their own laptop is feasible.</em>
+  In case that is not possible, participants can use provided computers.
+  The workshops will take place in a university computer lab.
 </p>
 
 {% comment %}
@@ -365,8 +367,9 @@ please preview your site before committing, and make sure to run
 'tools/check' as well.
 {% endcomment %}
 
-{% comment %}
 <h2 id="setup">Setup</h2>
+
+<p>This section is relevant, if you bring your own laptop.</p>
 
 <p>
   To participate in a
@@ -417,4 +420,3 @@ Please check the "Setup" page of
 [the lesson site]({{ site.incubator_lesson_site }}) for instructions to follow
 to obtain the software and data you will need to follow the lesson.
 {% endif %}
-{% endcomment %}
