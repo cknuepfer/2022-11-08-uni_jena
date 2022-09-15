@@ -184,10 +184,13 @@ special instructions.
 <p id="accessibility">
   <strong>Accessibility:</strong>
   We are committed to making this workshop accessible to everybody.
-
-  We are currently investigating physical accessibility of the venue.
-
-  If you anticipate that you will require accommodations or assistance to participate in the course, please get in touch with us.
+  The computer lab are wheelchair accessible and there are accessible restrooms in the building.
+</p>
+<p>
+  We are dedicated to providing a positive and accessible learning environment for all. Please
+  notify us in advance of the workshop if you require additional accommodations or if there is
+  anything we can do to make this workshop more accessible to you.
+</p>
 {% comment %}
 CONTACT EMAIL ADDRESS
 
